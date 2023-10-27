@@ -1,8 +1,10 @@
 #print right angled triangle of numbers downside
 '''
-***
-**
-*
+12345
+1234
+123
+12
+1
 '''
 n=int(input())
 for i in range(n,0,-1):
