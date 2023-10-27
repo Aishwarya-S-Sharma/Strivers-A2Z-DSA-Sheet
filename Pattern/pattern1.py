@@ -1,4 +1,11 @@
 #printing a square
+'''
+*****
+*****
+*****
+*****
+*****
+'''
 #approach 1
 n=int(input())
 for i in range(n):
